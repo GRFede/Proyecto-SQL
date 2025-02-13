@@ -1,0 +1,16 @@
+id_libro,titulo,autor,precio,stock,id_categoria
+1,El Principito,Antoine de Saint-Exupery,15.99,50,8
+2,1984,George Orwell,12.5,40,8
+3,Cien anos de soledad,Gabriel Garcia Marquez,18.75,35,8
+4,Don Quijote de la Mancha,Miguel de Cervantes,22.0,20,8
+5,Orgullo y prejuicio,Jane Austen,14.3,25,8
+6,Moby Dick,Herman Melville,17.99,30,8
+7,Crimen y castigo,Fiodor Dostoievski,19.25,15,8
+8,Los juegos del hambre,Suzanne Collins,13.99,45,8
+9,Harry Potter y la piedra filosofal,J.K. Rowling,21.5,60,8
+10,El hobbit,J.R.R. Tolkien,20.0,25,8
+11,La sombra del viento,Carlos Ruiz Zafon,16.75,20,8
+12,El codigo Da Vinci,Dan Brown,14.99,50,8
+13,Dune,Frank Herbert,23.8,15,8
+14,It,Stephen King,19.99,30,8
+15,Las cronicas de Narnia,C.S. Lewis,18.45,40,8
