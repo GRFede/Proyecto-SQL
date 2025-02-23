@@ -2,7 +2,7 @@ CREATE VIEW VistaDetallesDePedido AS
 SELECT 
     p.id_pedido,
     p.fecha,
-    c.nombre AS cliente,|
+    c.nombre AS cliente,
     l.titulo AS libro,
     dp.cantidad,
     dp.precio_unitario,
